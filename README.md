@@ -8,7 +8,7 @@
 [![API](https://img.shields.io/badge/API-21%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=21)
 [![License](https://img.shields.io/badge/License-Apache%202.0-lightgrey.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
-<img src="screenshots/demo/demo.gif" width="250" align="right" hspace="20">
+<img src="screenshots/structure.png" width="250" align="right" hspace="20">
 
 Android Components Architecture in a Modular Word is a sample project that presents modern, 2020 approach to [Android](https://www.android.com/) application development using [Kotlin](https://kotlinlang.org/) and latest tech-stack.
 

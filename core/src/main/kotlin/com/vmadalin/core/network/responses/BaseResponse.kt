@@ -30,6 +30,12 @@ import com.vmadalin.core.annotations.OpenForTesting
 data class BaseResponse<T>(
     val code: Any,
     val status: String,
-    val message: String,
-    val data: DataResponse<T>
+
+
+    val message:
+    String,
+
+
+    val data:
+    DataResponse<T>
 )
