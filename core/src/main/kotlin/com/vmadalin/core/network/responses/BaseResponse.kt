@@ -31,11 +31,9 @@ data class BaseResponse<T>(
     val code: Any,
     val status: String,
 
-
     val message:
-    String,
-
+        String,
 
     val data:
-    DataResponse<T>
+        DataResponse<T>
 )
