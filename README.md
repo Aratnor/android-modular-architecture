@@ -19,7 +19,7 @@ long application lifecycle management.
 
 ## Table of Contents
 
--   [Mentions](https://github.com/VMadalin/kotlin-sample-app#mentions)
+-   [Mentions](https://github.com/Aratnor/android-modular-architecture#mentions-test)
 -   [Development](https://github.com/VMadalin/kotlin-sample-app#development)
 -   [Design](https://github.com/VMadalin/kotlin-sample-app#design)
 -   [Architecture](https://github.com/VMadalin/kotlin-sample-app#architecture)
@@ -30,7 +30,7 @@ long application lifecycle management.
 -   [Authors](https://github.com/VMadalin/kotlin-sample-app#authors)
 -   [License](https://github.com/VMadalin/kotlin-sample-app#license)
 
-## Mentions
+## Mentions Test
 
 The project received different mentions/reference from Android Developer Community:
 
